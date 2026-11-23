@@ -27,10 +27,10 @@ pinout:
   ui[1]: "b1"
   ui[2]: "b2"
   ui[3]: "b3"
-  ui[4]: "b4"
-  ui[5]: "b5"
-  ui[6]: "b6"
-  ui[7]: "b7"
+  ui[4]: "a0"
+  ui[5]: "a1"
+  ui[6]: "a2"
+  ui[7]: "a3"
 
   # Outputs
   uo[0]: "c0"
